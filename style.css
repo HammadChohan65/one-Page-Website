@@ -1,6 +1,6 @@
 body{margin:0px;}
 header{
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images/image.jpg");
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("image.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 	width:100%;
@@ -95,7 +95,7 @@ margin:5px 50px 0px 250px;
 }	
 
 footer{
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images/image1.jpg");
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("image1.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 
