@@ -1,0 +1,149 @@
+body{margin:0px;}
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images/image.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:100%;
+}
+.divh{
+	font-size:35px;
+	color:white;
+	font-family:sans-serif;
+	text-transform:uppercase;
+	text-align:center;
+	padding:150px 0px 100px 0px;
+	font-weight:bold	;
+}
+.hr{width:50px;background-color:blue;margin-bottom:10px;}
+.inputsearch{
+	width:500px;
+	height:30px;
+	text-align:center;
+	border:none;
+	border-radius:5px;
+	}
+.section1{
+	background-color:white;
+	margin:0px;
+	padding:10px 0px 50px 50px;
+}
+.secdiv{
+	height:auto;
+	width:250px;
+	display:inline-block;
+	margin:65px;
+	margin-top:0px;
+	margin-bottom:0px;
+	border:3px solid #297FB8;
+	border-width:0px  0px 3px 0px;
+	text-align:center;
+	
+}
+.divicon{
+	background-color:white;
+	font-size:45px;
+	color:#297FB8;
+}
+.divtexth{
+	background-color:#297FB8;
+	text-transform:uppercase;
+	font-size:20px;
+	color:white;
+	text-align:center;
+	height:30px;
+}
+.divtext{
+	text-align:justify;
+}
+.divform{
+	color:white;
+	text-transform:uppercase;
+	font-family:sans-serif;
+
+}
+.forminput input,.forminput select,.forminput textarea{
+	border:none;
+	border-radius:2px;
+	height:30px;
+	width:300px;
+}
+.divform div{
+margin:5px 50px 0px 250px;
+}
+
+.formtext{
+	text-align:left;
+	height:30px;
+	width:250px;
+}
+.divform div div{
+	display:inline-block;
+	margin:0px;
+}
+.section2{
+	background-color:#297FB8;
+	padding:10px;
+}
+.divform button{
+	color:white;
+	font-size:16px;
+	width:80px;
+	background-color:#297FB8;
+	border:1px solid white;
+ 	border-radius:30px;
+	margin-left:50%;
+}	
+
+footer{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images/image1.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+
+	height:auto;
+	padding:15px;
+}
+.div1f,.div2f{
+color:white;
+}
+
+.div1f,.div2f{
+display:inline-block;
+}
+
+.div1f li,.div2f li{
+display:inline-block;
+list-style-type:none;
+text-transform:uppercase;
+padding:15px;
+}
+
+.div1f{
+margin-right:600px;
+}
+.ficon{font-size:30px;text-shadow:2px 3px black;}
+nav li{
+	list-style-type:none;
+	color:white;
+	display:inline-block;
+	height:20px;
+	width:150px;
+	text-transform:uppercase;
+	padding:5px 0px 5px 0px;	
+}
+nav{
+width:100%;
+background-color:#297FB8;
+position:absolute;
+top:0px;
+padding-left:0px;
+
+}
+nav ul{
+	margin-left:40%;
+}
+nav li:hover {
+	font-size:18px;
+	font-weight:bold;
+	background-color:hsl(0, 0%, 50%;);
+	border-radius:0px 5px 0px 5px;
+}
